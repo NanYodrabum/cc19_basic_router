@@ -1,0 +1,20 @@
+utomatic Code Splitting
+Hot Module Replacement
+Race Conditions
+Sessions and Cookies
+Special Files
+Type Safety
+API Development Strategy
+Contributing
+Installation
+React Router v7 requires the following minimum versions:
+
+node@20
+react@18
+react-dom@18
+You can start with a React template from Vite and choose "React", otherwise bootstrap your application however you prefer.
+
+npx create-vite@latest
+Next install React Router from npm:
+
+npm i react-router
