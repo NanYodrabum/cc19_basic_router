@@ -19,8 +19,12 @@ git add.
 git commit -m "name"
 git push
 ```
-## Stem 3 install React Router
+## Step 3 install React Router
 ```bash
 npm i react-router
 ```
 
+## Step4 Global state with Zustand
+```bash
+npm install zustand
+```
