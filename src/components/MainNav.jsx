@@ -12,6 +12,7 @@ function MainNav() {
                 <Link to ='/recapusestate'>Recap Usestate</Link>
                 <Link to = '/easyzustand'>Easy Zustand</Link> */}
                 <Link to="/product">Product</Link>
+                <Link to="/mycart">Cart</Link>
 
             </div>
             <div className="flex gap-4">

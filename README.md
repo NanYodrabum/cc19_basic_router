@@ -28,3 +28,8 @@ npm i react-router
 ```bash
 npm install zustand
 ```
+
+## Step 5 Fetch data
+```bash
+npm install axios
+```
